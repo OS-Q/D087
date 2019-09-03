@@ -1,34 +1,19 @@
-﻿# [驱动单元](https://github.com/OS-Q/D8)
-
+﻿# [FAN](https://github.com/OS-Q/D87)
 [![sites](OS-Q/qitas.png)](http://www.OS-Q.com)
-
-#### 归属标准单元：[W2](https://github.com/OS-Q/W2)
-
+#### 归属机电控制：[W13](https://github.com/OS-Q/W13)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
-Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
+[EDGE-Q](https://github.com/OS-Q/EDGE-Q) -> Q[4] -> M[12] -> W[52] -> D[365] -> H[24] -> N[60] -> S[60]
 
-### [平台描述](https://github.com/OS-Q/D8/wiki) 
+### [库描述](https://github.com/OS-Q/D87/wiki) 
 
+[FAN](https://github.com/OS-Q/D87)基于arduino平台构建的功能库，用于驱动FAN
 
+### [库资源](https://github.com/OS-Q/D87)
 
-### [平台资源](https://github.com/OS-Q/D8) 
+* [文档](docs/)
+* [资源](src/)
+* [示例](examples/)
 
-- [资源](src/)
-- [文档](docs/)
-
-### [平台相关](https://github.com/OS-Q/W1)
-
-* W2：[标准单元](https://github.com/OS-Q/W2)
-   * D8：[驱动单元](https://github.com/OS-Q/D8)
-   * D9：[NULL](https://github.com/OS-Q/D9)
-   * D10：[NULL](https://github.com/OS-Q/D10)
-   * D11：[NULL](https://github.com/OS-Q/D11)
-   * D12：[NULL](https://github.com/OS-Q/D12)
-   * D13：[NULL](https://github.com/OS-Q/D13)
-   * D14：[NULL](https://github.com/OS-Q/D14)
-
-
-
-### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/D8)
-####  2019-6-25
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/D87)
+####  2019-9-3
